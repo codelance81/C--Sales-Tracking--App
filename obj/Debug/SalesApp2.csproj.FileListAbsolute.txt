@@ -1,0 +1,15 @@
+C:\Users\Lance\Desktop\SalesApp2\bin\Debug\SalesApp2.exe.config
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.csprojResolveAssemblyReference.cache
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.Properties.Resources.resources
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.csproj.GenerateResource.Cache
+C:\Users\Lance\Desktop\SalesApp2\bin\Debug\SalesApp2.exe
+C:\Users\Lance\Desktop\SalesApp2\bin\Debug\SalesApp2.pdb
+C:\Users\Lance\Desktop\SalesApp2\bin\Debug\EntityFramework.dll
+C:\Users\Lance\Desktop\SalesApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lance\Desktop\SalesApp2\bin\Debug\EntityFramework.xml
+C:\Users\Lance\Desktop\SalesApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.exe
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.pdb
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.Migrations.Initial.resources
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.Migrations.SalesTarget.resources
+C:\Users\Lance\Desktop\SalesApp2\obj\Debug\SalesApp2.Form1.resources
